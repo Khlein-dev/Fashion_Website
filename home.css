@@ -43,7 +43,7 @@ body {
     left: 0;
     width: 100%;
     height: 100vh;
-    background: url('file:///C:/Users/Kier%20Pascua/OneDrive/HTML%20Presetss/photos/111.jpg') center/cover no-repeat;
+    background: url('photos/111.jpg') center/cover no-repeat;
     background-size: cover;
     background-position: center;
     opacity: 0.7; /* Controls background transparency */
